@@ -1,0 +1,12 @@
+{
+  "license": "NO LICENSE",
+  "scripts": {
+    "dev:storybook": "nuxt storybook",
+    "build:storybook": "nuxt storybook build"
+  },
+  "dependencies": {
+    "@nuxtjs/storybook": "^4.3.1",
+    "nuxt": "^2.15.8",
+    "postcss": "^8.4.14"
+  }
+}
